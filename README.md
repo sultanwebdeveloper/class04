@@ -1,1 +1,1 @@
-https://sultanwebdeveloper.github.io/class04/
+https://sultanwebdeveloper.github.io/class04
